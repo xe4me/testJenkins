@@ -1,0 +1,23 @@
+{
+  "name": "testjenkins",
+  "description": "This is just a test for Jenkins",
+  "main": "index.html",
+  "authors": [
+    "Milad Hosseini"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/xe4me/testJenkins",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8"
+  }
+}

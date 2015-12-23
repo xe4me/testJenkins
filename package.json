@@ -1,0 +1,24 @@
+{
+  "name": "testjenkins",
+  "version": "1.0.0",
+  "description": "This is just a test for Jenkins",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xe4me/testJenkins.git"
+  },
+  "author": "Milad Hosseini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xe4me/testJenkins/issues"
+  },
+  "homepage": "https://github.com/xe4me/testJenkins#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-shell": "^1.1.2",
+    "gulp": "^3.9.0"
+  }
+}
